@@ -9,3 +9,5 @@
 ## Skills
 
 ![ ](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,astro,tailwind)
+
+![ ](https://visitor-badge.laobi.icu/badge?page_id=amxterasus)
