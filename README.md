@@ -8,4 +8,4 @@
 
 ## Skills
 
-![ ](https://skillicons.dev/icons?i=html,css,js,nodejs,astro,tailwind)
+![ ](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,astro,tailwind)
