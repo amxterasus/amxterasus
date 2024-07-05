@@ -11,3 +11,5 @@
 ![ ](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,astro,tailwind)
 
 ![ ](https://visitor-badge.laobi.icu/badge?page_id=amxterasus)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/776176694209413170)](https://discord.com/users/776176694209413170)
